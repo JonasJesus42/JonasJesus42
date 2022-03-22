@@ -1,4 +1,5 @@
 ### Olá! Me chamo Jonas Jesus 👋
+Iniciando no mundo da programação com 16 anos estudando python evoluindo e mudando para javascript com projetos de bots e consumos de apis, automatizando tarefas em meu trabalho, iniciando estudos mais avançados em  backend e frontend com um projeto em equipe AceCidade, aprendendo a linguagem C baixo nível com a 42, focando em se aperfeiçoar no frontend com React.js/next.js.
 
 <div>
   <a href="https://github.com/JonasJesus42">
