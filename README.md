@@ -1,6 +1,8 @@
 ### Olá! Me chamo Jonas Jesus 👋
 Iniciando no mundo da programação com 16 anos estudando python evoluindo e mudando para javascript com projetos de bots e consumos de apis, automatizando tarefas em meu trabalho, iniciando estudos mais avançados em  backend e frontend com um projeto em equipe AceCidade, aprendendo a linguagem C baixo nível com a 42, focando em aperfeiçoar minhas habilidades no frontend com React.js/next.js.
 
+##
+
 <div align="start" height="180px" >
   <a href="https://github.com/JonasJesus42">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasjesus42&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
